@@ -10,3 +10,7 @@
 - GORM中文官网：https://gorm.io/zh_CN/docs/
 
 - GIN中文官网：https://gin-gonic.com/zh-cn/docs/#
+
+### 参考项目地址
+- Gitee项目地址：https://gitee.com/getcharzp/gin-gorm-oj
+- Github项目地址：https://github.com/GetcharZp/gin-gorm-oj
